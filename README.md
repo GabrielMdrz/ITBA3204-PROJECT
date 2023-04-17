@@ -1,6 +1,8 @@
 ![339332510_908455473728704_7251056607813973791_n](https://user-images.githubusercontent.com/113661505/232488642-37402121-af58-4c57-9fc2-345588c3ac27.jpg)
 
 # Project Title: Justice over War on Drugs in the Philippines
+***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3204)***
+
 ## Introduction
   The Philippine Department of Justice (DOJ) completed a review into 52 deaths during police anti-drug operations (Manila Bulletin, 3 October 2021), concluding that criminal charges ought to be levied against 154 police officers (Reuters, 4 October 2021). This marks a rare admission by the Philippine state that it may be complicit in abuses stemming from the war on drugs — which continues to rage on. While the 52 deaths under investigation represent a very small fraction of drug war fatalities, the justice minister announced last month that the DOJ will now look into thousands of other killings that have resulted from anti-drug operations (Reuters, 20 October 2021). Following the announcement, President Rodrigo Duterte stated his admission of full responsibility for the drug war, though “maintained he will never be tried by an international court” (Reuters, 21 October 2021). His comments came as the judges at the International Criminal Court (ICC) approved a formal investigation into possible crimes against humanity committed under his leadership (Reuters, 15 September 2021).
 
@@ -10,6 +12,8 @@ Anti-drug ‘vigilantes’ — largely assumed to have links to the Philippine s
 
 The geography of violence too has shifted, from Metro Manila to Central Luzon, initially coinciding with the reassignment of top police officials from the former to the latter (Rappler, 24 February 2019). More recently, new frontiers have emerged within Central Luzon, with violence shifting from Bulacan province to Nueva Ecija province — now the epicenter of the drug war — as police in Central Luzon continue to be rewarded by the Duterte administration.
 
+![photo1mobile](https://user-images.githubusercontent.com/113400436/232488618-cc14a092-b106-4cb5-9e91-dcdbcb0f1d26.jpg)
+
 The war on drugs launched by President Rodrigo Duterte in the Philippines in 2016 is a highly controversial issue that has been a topic of debate among human rights advocates and lawmakers on a global level. The President's motivation stemmed from his promises to crack down on drug-related issues, bringing profound changes to the country's approach to drug abuse ultimately. Duterte has claimed that his crackdown on drugs aims at resolving the drug menace in the country, and his supporters argue that these actions are necessary to make the streets safer.
 
 Despite the initial assertions that the war on drugs was getting successful, the war on drugs has been subject to criticisms locally and internationally. Human rights advocates argue that the Duterte administration's efforts to combat drugs have led to extrajudicial killings and other forms of human rights exploitation. Nearly 6,000 people were killed within the first six months of the so-called 'war on drugs' crackdown, allegedly including the innocent, worsening the drug problem instead. It has been suggested that the need for police intervention and due process is required in addressing the drug issue, rather than violent approaches that pull the country away from values-based governance.
@@ -18,12 +22,11 @@ The seriousness of the drug problem in the Philippines cannot be overemphasized.
 
 
 
-![photo1mobile](https://user-images.githubusercontent.com/113400436/232488618-cc14a092-b106-4cb5-9e91-dcdbcb0f1d26.jpg)
-
 
 ![sdg16](https://user-images.githubusercontent.com/113400436/232473107-2ac14551-6d0a-4122-92cc-633012495bbc.jpg)
+![Objetivo_10_Reduccion_Desigualdades_746x419_ENG](https://user-images.githubusercontent.com/113661505/232498779-ec7da3cb-dfe7-40f5-ba13-f285bdbff8eb.jpg)
 
-To sum up, this analysis focuses on the
+To sum up, this analysis focuses on the SDG 10, which is to ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies, and practices and promoting appropriate legislation, policies, and action in this regard, as well as the SDG 16, which calls for peaceful and inclusive societies based on respect for human rights, protection of the most vulnerable, the rule of law, and good governance at all levels.The objective of this analysis is to observe the rates of crimes in the Philippines, especially those involving illegal drugs.
 
 ## Problem Statement
 Since the inauguration of President Rodrigo Duterte on June 30, 2016, and his call for a “war on drugs,” Philippine National Police officers and unidentified “vigilantes” have killed over 7,000 people. The anti-drug campaign dubbed “Operation Double Barrel” has targeted suspected drug dealers and users ostensibly for arrest but in practice has been a campaign of extrajudicial execution in impoverished areas of Manila and other urban areas. Duterte’s outspoken endorsement of the campaign implicates him and other senior officials in possible incitement to violence, instigation of murder, and in command responsibility for crimes against humanity.
