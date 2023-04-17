@@ -11,3 +11,7 @@ The War on Drugs in the Philippines, also known as Operation Double Barrel, has 
 According to Human Rights Watch, the Philippine government's War on Drugs has resulted in "widespread and systematic" violations of human rights, including extrajudicial killings, arbitrary detention, and torture. The group has called on the government to end its abusive campaign and hold those responsible accountable. However, the government has resisted calls for an independent investigation and has even withdrawn from the International Criminal Court, which was investigating the situation in the country.[^5].
 
 
+
+![Sustainable_Development_Goal_16PeaceJusticeInstitutions svg](https://user-images.githubusercontent.com/113661505/232456456-734bf2f7-774d-4ad5-965b-4621966fc08e.png)
+
+To sum up, this analysis focuses on the sixteenth which is to promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels. The objective of this analysis is to [^6].
