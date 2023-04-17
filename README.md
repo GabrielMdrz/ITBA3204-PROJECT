@@ -11,9 +11,15 @@ Anti-drug ‘vigilantes’ — largely assumed to have links to the Philippine s
 
 The geography of violence too has shifted, from Metro Manila to Central Luzon, initially coinciding with the reassignment of top police officials from the former to the latter (Rappler, 24 February 2019). More recently, new frontiers have emerged within Central Luzon, with violence shifting from Bulacan province to Nueva Ecija province — now the epicenter of the drug war — as police in Central Luzon continue to be rewarded by the Duterte administration.
 
+The war on drugs launched by President Rodrigo Duterte in the Philippines in 2016 is a highly controversial issue that has been a topic of debate among human rights advocates and lawmakers on a global level. The President's motivation stemmed from his promises to crack down on drug-related issues, bringing profound changes to the country's approach to drug abuse ultimately. Duterte has claimed that his crackdown on drugs aims at resolving the drug menace in the country, and his supporters argue that these actions are necessary to make the streets safer.
+
+Despite the initial assertions that the war on drugs was getting successful, the war on drugs has been subject to criticisms locally and internationally. Human rights advocates argue that the Duterte administration's efforts to combat drugs have led to extrajudicial killings and other forms of human rights exploitation. Nearly 6,000 people were killed within the first six months of the so-called 'war on drugs' crackdown, allegedly including the innocent, worsening the drug problem instead. It has been suggested that the need for police intervention and due process is required in addressing the drug issue, rather than violent approaches that pull the country away from values-based governance.
+
+The seriousness of the drug problem in the Philippines cannot be overemphasized. However, whether or not the President's administration's methods are going to be effective long-term remains an issue that will not be resolved overnight. The broader problem with the war on drugs in the Philippines is that it has provided a precedent for authoritarian governance that spends recklessly on military and extrajudicial campaigns
 
 
-![Sustainable_Development_Goal_16PeaceJusticeInstitutions svg](https://user-images.githubusercontent.com/113661505/232456456-734bf2f7-774d-4ad5-965b-4621966fc08e.png)
+
+![photo1mobile](https://user-images.githubusercontent.com/113400436/232488618-cc14a092-b106-4cb5-9e91-dcdbcb0f1d26.jpg)
 
 
 ## Problem Statement
