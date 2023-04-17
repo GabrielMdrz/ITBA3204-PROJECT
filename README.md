@@ -1,7 +1,6 @@
 ![339332510_908455473728704_7251056607813973791_n](https://user-images.githubusercontent.com/113661505/232488642-37402121-af58-4c57-9fc2-345588c3ac27.jpg)
 
-# DEVELOPING SOCIETIES WITH PEACE, JUSTICE, AND EQUITABLE: EXPLORING SUSTAINABLE DEVELOPMENT GOAL 16
-
+# Project Title: Justice over War on Drugs in the Philippines
 ## Introduction
   The Philippine Department of Justice (DOJ) completed a review into 52 deaths during police anti-drug operations (Manila Bulletin, 3 October 2021), concluding that criminal charges ought to be levied against 154 police officers (Reuters, 4 October 2021). This marks a rare admission by the Philippine state that it may be complicit in abuses stemming from the war on drugs — which continues to rage on. While the 52 deaths under investigation represent a very small fraction of drug war fatalities, the justice minister announced last month that the DOJ will now look into thousands of other killings that have resulted from anti-drug operations (Reuters, 20 October 2021). Following the announcement, President Rodrigo Duterte stated his admission of full responsibility for the drug war, though “maintained he will never be tried by an international court” (Reuters, 21 October 2021). His comments came as the judges at the International Criminal Court (ICC) approved a formal investigation into possible crimes against humanity committed under his leadership (Reuters, 15 September 2021).
 
@@ -24,6 +23,8 @@ The seriousness of the drug problem in the Philippines cannot be overemphasized.
 
 ![sdg16](https://user-images.githubusercontent.com/113400436/232473107-2ac14551-6d0a-4122-92cc-633012495bbc.jpg)
 
+To sum up, this analysis focuses on the
+
 ## Problem Statement
 Since the inauguration of President Rodrigo Duterte on June 30, 2016, and his call for a “war on drugs,” Philippine National Police officers and unidentified “vigilantes” have killed over 7,000 people. The anti-drug campaign dubbed “Operation Double Barrel” has targeted suspected drug dealers and users ostensibly for arrest but in practice has been a campaign of extrajudicial execution in impoverished areas of Manila and other urban areas. Duterte’s outspoken endorsement of the campaign implicates him and other senior officials in possible incitement to violence, instigation of murder, and in command responsibility for crimes against humanity.
 
@@ -41,3 +42,6 @@ Duterte’s outspoken vow to embark on a nationwide killing campaign against dru
 Following his election, Duterte continued to state unequivocally that his anti-drug campaign would focus on killing drug dealers and users. Speaking in Davao City on June 4, he stated: “If you are still into drugs, I am going to kill you. Don’t take this as a joke. I’m not trying to make you laugh. Sons of bitches, I’ll really kill you.”
 
 Since taking office, Duterte has repeatedly vowed to kill drug dealers and users in the midst of skyrocketing reports of extrajudicial executions by the police and so-called vigilantes. On August 6, he warned drug dealers: “My order is shoot to kill you. I don’t care about human rights; you better believe me.” He praised the soaring body count of victims of police killings as proof of the “success” of his “war on drugs.”
+
+## Significance of the Proposed Project
+
