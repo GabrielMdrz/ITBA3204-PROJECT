@@ -22,6 +22,7 @@ The seriousness of the drug problem in the Philippines cannot be overemphasized.
 ![photo1mobile](https://user-images.githubusercontent.com/113400436/232488618-cc14a092-b106-4cb5-9e91-dcdbcb0f1d26.jpg)
 
 
+![sdg16](https://user-images.githubusercontent.com/113400436/232473107-2ac14551-6d0a-4122-92cc-633012495bbc.jpg)
 
 ## Problem Statement
 Since the inauguration of President Rodrigo Duterte on June 30, 2016, and his call for a “war on drugs,” Philippine National Police officers and unidentified “vigilantes” have killed over 7,000 people. The anti-drug campaign dubbed “Operation Double Barrel” has targeted suspected drug dealers and users ostensibly for arrest but in practice has been a campaign of extrajudicial execution in impoverished areas of Manila and other urban areas. Duterte’s outspoken endorsement of the campaign implicates him and other senior officials in possible incitement to violence, instigation of murder, and in command responsibility for crimes against humanity.
