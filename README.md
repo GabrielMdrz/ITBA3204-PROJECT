@@ -62,3 +62,9 @@ The campaign against illegal drugs continued in the Philippines, even after the 
 **The Future Researchers**. For the researchers to provide background knowledge concerning crime rates in the Philippines. This project's analytics can provide them with new insights, suggestions, and conclusions.
 
 ## Methods
+
+There are already many discussed studies about the war on drugs in the Philippines, but with the ongoing and never ending killings associated with drugs that is resulted to crimes this give chance to have more generate additional empirical data and understanding into this topic.As a result, performing empirical research is a suitable approach of expanding on and exploring new research. This focuses on analyzing information that will be an advantage to have more strategies and coming to a good conclusions. It will also indicate any changes to this problem.
+
+## Expected Output
+
+The purpose of this study is to find general patterns in the data that will assist the researcher. If the analysis's output is proven to be effective with the relationship to the connected variables then it is good that people have awareness about this issue and if the outcome is worse then the awareness should be spread, and it can also help for further research to come up with a sufficient strategic plan. The government can also adapt and learn from other countries that have effectively reduced the problem about drugs. They can also promote awareness, particularly among the younger age, advocate for a campaign, and develop a program.
