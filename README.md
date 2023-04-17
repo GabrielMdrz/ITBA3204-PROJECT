@@ -57,4 +57,4 @@ The campaign against illegal drugs continued in the Philippines, even after the 
 
 **The Future Researchers**. For the researchers to provide background knowledge concerning crime rates in the Philippines. This project's analytics can provide them with new insights, suggestions, and conclusions.
 
-## Method
+## Methods
