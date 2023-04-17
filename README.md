@@ -20,8 +20,7 @@ The seriousness of the drug problem in the Philippines cannot be overemphasized.
 
 
 ![photo1mobile](https://user-images.githubusercontent.com/113400436/232488618-cc14a092-b106-4cb5-9e91-dcdbcb0f1d26.jpg)
-![drugwar-fb](https://user-images.githubusercontent.com/113400436/232489754-392b4656-56af-46b4-987d-77787a7405d9.jpg)
-![articles_warondrugs_use](https://user-images.githubusercontent.com/113400436/232490214-f48f5cfd-4834-4c6f-ac0c-a5986da96827.jpg)
+
 
 
 ## Problem Statement
