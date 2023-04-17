@@ -13,9 +13,9 @@ According to Human Rights Watch, the Philippine government's War on Drugs has re
 
 
 
-![Sustainable_Development_Goal_16PeaceJusticeInstitutions svg](https://user-images.githubusercontent.com/113661505/232456456-734bf2f7-774d-4ad5-965b-4621966fc08e.png)
+![sdg16](https://user-images.githubusercontent.com/113400436/232473107-2ac14551-6d0a-4122-92cc-633012495bbc.jpg)
 
-To sum up, this analysis focuses on the sixteenth which is to promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels. The objective of this analysis is to [^6].
+To sum up, this analysis focuses on the sixteenth which is to promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels. This analysis's goal is to track the number of drug-related fatalities.[^6].
 
 ## Problem Statement
 Sustainable development goals 16 is focused on promoting peaceful and inclusive societies for sustainable development, providing access to justice for all, and building effective, accountable, and inclusive institutions at all levels. It is an essential goal, as it aims to ensure that people can exercise their rights, create more equal and peaceful communities, and achieve sustainable development.[^7].
