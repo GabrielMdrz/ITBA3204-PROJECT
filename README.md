@@ -47,4 +47,14 @@ Following his election, Duterte continued to state unequivocally that his anti-d
 Since taking office, Duterte has repeatedly vowed to kill drug dealers and users in the midst of skyrocketing reports of extrajudicial executions by the police and so-called vigilantes. On August 6, he warned drug dealers: “My order is shoot to kill you. I don’t care about human rights; you better believe me.” He praised the soaring body count of victims of police killings as proof of the “success” of his “war on drugs.”
 
 ## Significance of the Proposed Project
+The campaign against illegal drugs continued in the Philippines, even after the term of former President Duterte ended. In 2021, the National Capital Region and Region 4-A recorded the highest number of arrested persons involved in illegal drugs. With high rates of criminality and limited prison capacity, prison facilities across the country have long been faced with overcrowding issues, in which most inmates were serving sentences without conviction. As of July 2021, there were over 215 thousand prisoners in just 40 prison facilities nationwide. The country’s prison situation was also characterized by high death tolls, with the total tally reaching about 1,200 in 2021. This project's goal is to provide an explanatory analysis of the crime rates involving drugs in the Philippines through the years. This project will provide a variety of data sets exemplifying crime rates in the Philippines. This research will be useful for the following purposes:
 
+**The Students**. For those students who will be needing data that may be found in the project. This will allow them to have a thorough understanding of the Philippines crime rates over the course of time.
+
+**The Teachers**. For teachers who will be teaching about law, which involves crime in the Philippines over the course of many years. The information collected for the project can be used in their courses.
+
+**The Government officials**. For selected government officials who will be needing data that they may use for their future projects related to crimes involving drugs.
+
+**The Future Researchers**. For the researchers to provide background knowledge concerning crime rates in the Philippines. This project's analytics can provide them with new insights, suggestions, and conclusions.
+
+## Method
