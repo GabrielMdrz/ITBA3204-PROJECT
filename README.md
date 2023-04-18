@@ -68,3 +68,6 @@ There are already many discussed studies about the war on drugs in the Philippin
 ## Expected Output
 
 The purpose of this study is to find general patterns in the data that will assist the researcher. If the analysis's output is proven to be effective with the relationship to the connected variables then it is good that people have awareness about this issue and if the outcome is worse then the awareness should be spread, and it can also help for further research to come up with a sufficient strategic plan. The government can also adapt and learn from other countries that have effectively reduced the problem about drugs. They can also promote awareness, particularly among the younger age, advocate for a campaign, and develop a program.
+
+
+### References
