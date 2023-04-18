@@ -71,3 +71,5 @@ The purpose of this study is to find general patterns in the data that will assi
 
 
 ### References
+#### https://www.statista.com/topics/6994/crime-in-the-philippines/?fbclid=IwAR3GoXU-1iKD4OcjhYfACt3Vag99CXIunDhAQIH2lzhGiQt7ZIdICE_dFVA#topicOverview
+#### https://www.hrw.org/news/2023/02/13/international-criminal-courts-philippines-investigation
