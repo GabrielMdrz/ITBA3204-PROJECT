@@ -3,6 +3,9 @@
 # Project Title: Justice over War on Drugs in the Philippines
 ***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3204)***
 
+![339882205_736101874968641_4275135748964798023_n](https://user-images.githubusercontent.com/113661505/233819560-590946df-b1ba-46e0-99d3-9315579053de.jpg)
+
+
 ## Introduction
   The Philippine Department of Justice (DOJ) completed a review into 52 deaths during police anti-drug operations (Manila Bulletin, 3 October 2021), concluding that criminal charges ought to be levied against 154 police officers (Reuters, 4 October 2021). This marks a rare admission by the Philippine state that it may be complicit in abuses stemming from the war on drugs — which continues to rage on. While the 52 deaths under investigation represent a very small fraction of drug war fatalities, the justice minister announced last month that the DOJ will now look into thousands of other killings that have resulted from anti-drug operations (Reuters, 20 October 2021). Following the announcement, President Rodrigo Duterte stated his admission of full responsibility for the drug war, though “maintained he will never be tried by an international court” (Reuters, 21 October 2021). His comments came as the judges at the International Criminal Court (ICC) approved a formal investigation into possible crimes against humanity committed under his leadership (Reuters, 15 September 2021).
 
